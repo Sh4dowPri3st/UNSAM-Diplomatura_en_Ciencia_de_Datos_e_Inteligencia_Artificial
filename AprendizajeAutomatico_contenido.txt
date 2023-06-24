@@ -1,0 +1,21 @@
+Especialización - Aprendizaje Automático
+
+
+Algoritmos avanzados de aprendizaje automático:
+Support Vector Machines.
+Equilibrio sesgo-varianza.
+Métodos de ensamble. Bagging y stacking. Random Forest.
+Métodos de Boosting. Métodos de árboles. Gradient Boosting.
+
+Redes neuronales:
+Redes neuronales feed-forward. Métodos de Deep Learning.
+Entrenamiento de redes. Regularización.
+Redes neuronales convolucionales en aprendizaje de imágenes.
+Interpretabilidad. Aprendizaje por transferencia.
+
+Deep Learning y Aplicaciones:
+Autoenconders. Autoenconders variacionales. Redes Generativas Antagónicas (GANs).
+Redes neuronales recurrentes.
+Reinforcement Learning.
+Procesamiento de Texto y Lenguaje Natural.
+Aplicaciones en contextos comerciales, científicos, financieros, médicos y otros.
